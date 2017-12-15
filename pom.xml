@@ -194,7 +194,7 @@
               <!-- 새로운 로직 -->
             <plugin>
                 
-                Updates Version#id().
+                <!-- Updates Version#id(). -->
                
                 <groupId>com.google.code.maven-replacer-plugin</groupId>
                 <artifactId>replacer</artifactId>
